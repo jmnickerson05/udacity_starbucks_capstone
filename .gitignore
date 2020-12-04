@@ -1,0 +1,3 @@
+.ipynb_checkpoints/*
+.DS_Store
+plugins/.ipynb_checkpoints/plugin_utils-checkpoint.py
