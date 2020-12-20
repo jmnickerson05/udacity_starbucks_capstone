@@ -1,4 +1,3 @@
-docker images | grep pycaret | xargs docker rmi -f
 docker rmi -f pycaret
 docker build . -t pycaret
 docker run -v pwd:/app -dit -p 8888:8888 pycaret
