@@ -47,14 +47,14 @@ Here is the schema and explanation of each variable in the files:
 * value - (dict of strings) - either an offer id or transaction amount depending on the record
 
 ## Core Libraries
-####Machine Learning:
+### Machine Learning:
 * Scikit-Learn 
 * XGBoost
 
-####API Endpoint
+### API Endpoint
 * Flask
 
-####Analysis, exploration, and model evaluation:
+### Analysis, exploration, and model evaluation:
 * JupyterLab
 * Pandas
 * Statsmodel
