@@ -50,8 +50,10 @@ Here is the schema and explanation of each variable in the files:
 ####Machine Learning:
 * Scikit-Learn 
 * XGBoost
+
 ####API Endpoint
 * Flask
+
 ####Analysis, exploration, and model evaluation:
 * JupyterLab
 * Pandas
