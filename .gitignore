@@ -4,3 +4,5 @@ scratch/*
 plugins/.ipynb_checkpoints/plugin_utils-checkpoint.py
 *.db
 env/*
+.idea/*
+__pycache__/*
